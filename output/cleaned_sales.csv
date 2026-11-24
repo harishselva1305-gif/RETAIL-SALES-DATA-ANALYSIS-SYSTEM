@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Product,Category,Quantity,Price,Order_Date,Revenue,Discount,Final_Revenue,Year,Month,Month_Name,Day
+101,1,Laptop,Electronics,2,50000,2026-01-05,100000,10000.0,90000.0,2026,1,January,5
+102,2,Mouse,Accessories,5,500,2026-01-10,2500,0.0,2500.0,2026,1,January,10
+103,3,Keyboard,Accessories,3,1200,2026-02-12,3600,0.0,3600.0,2026,2,February,12
+104,1,Laptop,Electronics,1,50000,2026-02-15,50000,0.0,50000.0,2026,2,February,15
+105,4,Monitor,Electronics,2,15000,2026-03-01,30000,0.0,30000.0,2026,3,March,1
+106,5,Mouse,Accessories,4,500,2026-03-10,2000,0.0,2000.0,2026,3,March,10
+107,2,Keyboard,Accessories,2,1200,2026-04-05,2400,0.0,2400.0,2026,4,April,5
+108,3,Laptop,Electronics,1,50000,2026-04-15,50000,0.0,50000.0,2026,4,April,15
+109,6,Monitor,Electronics,3,15000,2026-05-10,45000,0.0,45000.0,2026,5,May,10
+110,4,Mouse,Accessories,6,500,2026-05-20,3000,0.0,3000.0,2026,5,May,20
